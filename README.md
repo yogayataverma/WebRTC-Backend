@@ -39,7 +39,7 @@ Before running this project, make sure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yogayataverma/WebRTC-Backend.git
+git clone [https://github.com/yogayataverma/WebRTC-Backend.git](https://github.com/yogayataverma/WebRTC-Conference.git)
 ```
 
 ### 2. Install Dependencies
